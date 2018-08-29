@@ -7,3 +7,4 @@ A has chenged this file
 B has changed this file
 
 B want A to try rebase function
+A go to rebase
