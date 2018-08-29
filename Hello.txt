@@ -2,4 +2,4 @@ Hello world!
 
 try the git stash cmd
 
-B change this file
+B has changed this file
