@@ -1,1 +1,3 @@
 Hello world!
+
+try the git stash cmd
