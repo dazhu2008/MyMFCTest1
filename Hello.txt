@@ -2,6 +2,6 @@ Hello world!
 
 try the git stash cmd
 
-
-
 A has chenged this file
+
+B has changed this file
